@@ -5,7 +5,7 @@ def add():
 
 
 def substraction():
-        a = float(input("Enter a number! "))
+        a = float(input("Enter a number. "))
         b = float(input("Enter another number. "))
         print(a - b)
 
